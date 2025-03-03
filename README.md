@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://ibb.co/k9jKDMy"><img src="https://i.ibb.co/7RPvpbz/Brainwave-Read-Me-IMG.png" alt="Brainwave-Read-Me-IMG" border="0"></a>
+  <a href="https://ibb.co/XZJQ6MhF"><img src="https://i.ibb.co/kgc7zvRq/Screenshot-2024-06-21-123343.png" alt="Screenshot-2024-06-21-123343" border="0"></a>
   <br />
 
   <div>
